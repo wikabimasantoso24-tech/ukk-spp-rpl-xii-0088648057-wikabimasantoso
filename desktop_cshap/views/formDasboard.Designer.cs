@@ -1,6 +1,6 @@
 ﻿namespace desktop_cshap
 {
-    partial class Form1
+    partial class formDasboard
     {
         /// <summary>
         /// Required designer variable.

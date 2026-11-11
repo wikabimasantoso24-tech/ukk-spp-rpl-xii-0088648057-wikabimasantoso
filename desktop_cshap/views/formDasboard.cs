@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace desktop_cshap
 {
-    public partial class Form1 : Form
+    public partial class formDasboard : Form
     {
-        public Form1()
+        public formDasboard()
         {
             InitializeComponent();
         }
